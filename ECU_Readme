@@ -1,0 +1,16 @@
+*** This file is a fork from RexCarden's planchecker
+
+The goal of this plan checker is to cater the capabilities of Rex Carden's design for ECU's clinic. 
+
+To do:
+Fix font colors, some drop down fonts are too light against the background.
+Provide logos in the report
+Fix bug where system freezes if QA course is selected for plan check, either make QA courses un checkable or find exemption
+make updateable templates, provide templates from ECU for specific doctors, doctor search of patient should work
+collision check included in report
+confirm collision check is accpetable for truebeam
+filter out some warnings that do not apply to ECU's clinic
+change some language of reports to better suit clinical needs
+have fun
+
+***
